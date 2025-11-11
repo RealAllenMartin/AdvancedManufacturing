@@ -42,3 +42,16 @@
 /Users/allenmartin/Sites/AdvancedManufacturing/api/obj/Debug/net9.0/api.pdb
 /Users/allenmartin/Sites/AdvancedManufacturing/api/obj/Debug/net9.0/api.genruntimeconfig.cache
 /Users/allenmartin/Sites/AdvancedManufacturing/api/obj/Debug/net9.0/ref/api.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/Namotion.Reflection.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/NJsonSchema.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/NJsonSchema.Annotations.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/NJsonSchema.NewtonsoftJson.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/NJsonSchema.Yaml.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/NSwag.Annotations.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/NSwag.AspNetCore.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/NSwag.Core.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/NSwag.Core.Yaml.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/NSwag.Generation.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/NSwag.Generation.AspNetCore.dll
+/Users/allenmartin/Sites/AdvancedManufacturing/api/bin/Debug/net9.0/YamlDotNet.dll
